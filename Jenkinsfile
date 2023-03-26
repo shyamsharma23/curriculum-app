@@ -36,4 +36,8 @@ pipeline {
     }
 
   }
+  environment {
+    DOCKERHUB_USER = 'shyamsharma'
+    DOCKERHUB_PASSWORD = 'p5tNkEvWU#x!MEg'
+  }
 }
